@@ -1,0 +1,5 @@
+Added student: Dalia Mohisen
+Added student: Nour Ali
+Updated student: Nesma abushammala
+Retrieved student by ID: 6495ed58cb4e2
+Deleted student: 6495ed58cb92a
